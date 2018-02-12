@@ -2,6 +2,8 @@
 
 Bienvenidos al WS de Continuous Integration
 
+Lo que aparece aqui se agregó al WS
+
 Temas
 	- Control de versiones
 	- Triggers

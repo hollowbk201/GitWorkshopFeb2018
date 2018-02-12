@@ -6,3 +6,5 @@ Temas
 	- Control de versiones
 	- Triggers
 	- Automatizacion
+
+Aqui agregamos otra cosa que deberia aparecer solo en stage

@@ -8,7 +8,10 @@ Temas
 	- Automatizacion
 
 Bibliografía:
-	-
+	- Git in practice
 
 Temas alternos:
-	-
+	- XP
+	- Kanban
+	- Seguridad y criptografia
+	- Sistemas operativos

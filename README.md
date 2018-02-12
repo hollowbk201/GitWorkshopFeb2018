@@ -1,5 +1,8 @@
 #Hola mundo :v
 
-Bienvenidos al WS
+Bienvenidos al WS de Continuous Integration
 
-No se que mas poner asi que solo escribo al azar :3
+Temas
+	- Control de versiones
+	- Triggers
+	- Automatizacion
